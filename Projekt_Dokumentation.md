@@ -28,4 +28,4 @@ Anschließend haben wir uns alle ein GitHub-Konto erstellt. Danach haben wir ein
 
 <p>Wir haben ein Sequenz-Diagramm erstellt, welches den Ablauf einer Kundeabfrage dokumentiert und weitere Aufgaben unseres Serviceprozesses darstellt</p>
 
-<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%201.pdf">Zum Dokument</a>
+<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/SequenzdiagrammBild.png">Zum Sqquenzdiagramm</a>
