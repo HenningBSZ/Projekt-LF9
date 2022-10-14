@@ -26,7 +26,7 @@ Anschließend haben wir uns alle ein GitHub-Konto erstellt. Danach haben wir ein
 <h2>Phase 3:</h2>
  Darstellung der zeitlichen Reihenfolge der Tätigkeiten<br><br>
 
-<p>Wir haben ein Sequenz-Diagramm erstellt, welches den Ablauf einer Kundeabfrage dokumentiert und weitere Aufgaben unseres Serviceprozesses darstellt</p>
+<p>Wir haben ein Sequenz-Diagramm erstellt, welches den Ablauf einer Kundeabfrage dokumentiert und weitere Aufgaben unseres Serviceprozesses darstellt.</p>
 
 <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/SequenzdiagrammBild.png">Zum Sequenzdiagramm</a>
 
@@ -34,7 +34,9 @@ Anschließend haben wir uns alle ein GitHub-Konto erstellt. Danach haben wir ein
 <h2>Phase 5:</h2>
 Analyse von Datenquellen und der elektronischen Varianten<br><br>
 
-<p>Wir haben uns alle notwendigen Daten heraus gesucht und analysiert.</p>
+<p>Wir haben uns alle notwendigen Daten heraus gesucht und analysiert.<br>
+Ebenso haben wir die Datenquellen hinsichtlich der Bereitstellung und möglicher Datenformate analyisiert.<br>
+Zum Abschluss haben wir uns entschieden wer die Daten nutzen und verarbeiten darf und ebenso welches Datenformat das Angebot haben soll.</p>
 
 <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%205.md">Zum Dokument</a>
 
