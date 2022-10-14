@@ -36,5 +36,5 @@ Analyse von Datenquellen und der elektronischen Varianten<br><br>
 
 <p>Wir haben uns alle notwendigen Daten heraus gesucht und analysiert.</p>
 
-<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase5">Zum Dokument</a>
+<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%205.md">Zum Dokument</a>
 
