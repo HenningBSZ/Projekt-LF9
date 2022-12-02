@@ -1,5 +1,5 @@
 # Projekt-LF8
-von Pascal Wagler, Niklas Wagner, Philipp Müller und Henning Löwe 
+von Pascal Wagler, Niklas Wagner, Philipp Müller, Chris Leonhardt, Jonas Reinecke und Henning Löwe 
 <hr>
 
 <h2>Phase 1:</h2>
