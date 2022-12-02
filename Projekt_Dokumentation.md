@@ -34,9 +34,13 @@ Anschließend haben wir uns alle ein GitHub-Konto erstellt. Danach haben wir ein
 <h2>Phase 5:</h2>
 Analyse von Datenquellen und der elektronischen Varianten<br><br>
 
-<p>Wir haben uns alle notwendigen Daten heraus gesucht und analysiert.<br>
-Ebenso haben wir die Datenquellen hinsichtlich der Bereitstellung und möglicher Datenformate analyisiert.<br>
-Zum Abschluss haben wir uns entschieden wer die Daten nutzen und verarbeiten darf und ebenso welches Datenformat das Angebot haben soll.</p>
 
-<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%205.md">Zum Dokument</a>
+<h2>Phase 6:</h2>
+ Erstellung einer Benutzerverwaltung<br><br>
+
+<p>Identifizieren der Nutzer des zukünftigen Software-Systems und dessen Datenbestandes.<br>
+Notieren aller für die Nutzer die notwendigen Rechte auf die Datenquellen.<br>
+Entscheiden, wie die Nutzerverwaltung praktisch im System umgesetzt werden könnten.</p>
+
+<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%206.pdf">Zum Dokument</a>
 
