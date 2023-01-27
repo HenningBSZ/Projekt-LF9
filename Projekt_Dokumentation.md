@@ -10,6 +10,8 @@ Darauf folgend haben wir uns damit beschäftigt, welche Zielplattformen für uns
 Zum Abschluss von Phase 1 haben wir ein Use-Case Diagramm (Anwendungsfall-Diagramm) erstellt.</p>
 
 <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%201.pdf">Zum Dokument</a>
+<h3>ANwendungsfall-Diagramm</h3>
+<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Sequenzdiagramm.drawio.png">Zum Dokument</a>
 
 <br>
 <h2>Phase 2:</h2>
