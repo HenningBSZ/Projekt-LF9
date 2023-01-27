@@ -11,7 +11,7 @@ Zum Abschluss von Phase 1 haben wir ein Use-Case Diagramm (Anwendungsfall-Diagra
 
 <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%201.pdf">Zum Dokument</a>
 <h4>Anwendungsfall-Diagramm</h4>
-<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Sequenzdiagramm.drawio.png">Zum Dokument</a>
+<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Use-Case-DiagrammV2.drawio.png">Zum Dokument</a>
 
 <br>
 <h2>Phase 2:</h2>
