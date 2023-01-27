@@ -17,8 +17,8 @@ Formate:<br>
 CAD(DWG oder DXF) - veraltet, BIM(RVT oder NDW) PDF, JPG, PNG<br>
 <hr>
 
-Den erhaltenden Grundriss (PDF als Standard) konvertieren wir in eine NDV-Datei da diese unseren Standards am Besten entspricht.
-Über unsere Datenbank in der unsere gesamtes Inventar in 2D- und 3D-Modellen ebenfalls in NDV-Dateien verpackt, abgespeichert ist können wir direkt in der
+Den erhaltenden Grundriss (PDF als Standard) konvertieren wir in eine DWG-Datei da diese unseren Standards am Besten entspricht.
+Über unsere Datenbank in der unsere gesamtes Inventar in 2D- und 3D-Modellen ebenfalls in DWG-Dateien verpackt, abgespeichert ist können wir direkt in der
 Software Revit arbeiten. Die 3D-Ausgabe ist auch sehr einfach in der Software möglich. Nebenbei wird die Bearbeitungshistorie in einer .txt-Datei 
 abgespeichert und am Ende auf Wunsch als .pdf ausgegeben. Genauso wird eine Liste aller platzierten Artikel erstellt und letztendlich die Rechnung direkt
 als .pdf ausgegeben.
