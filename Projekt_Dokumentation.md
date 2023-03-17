@@ -46,24 +46,3 @@ Entscheiden, wie die Nutzerverwaltung praktisch im System umgesetzt werden könn
 
 <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%206.pdf">Zum Dokument</a>
 
-<h2>Phase 6:</h2>
- Identifizieren Sie die Nutzer des Systems 
- <p> Kunde 				          schreiben 
-     Mitarbeiter         Außendienst 	lesen, schreiben 
-     Projekt Planer 			  lesen, schreiben, bearbeiten 
-     Lieferant 			       lesen 
-     ITSystemhaus DD 		  lesen, schreiben, bearbeiten 
-
-
-Definieren Sie die Schnittstelle zwischen eigenen Software-Anwendungen und der gewählten Nutzerverwaltung.
-
-Vom Kunden und Lieferanten zur ITSystemhaus DD 	Schnittstelle: 
-Webserver, auf den Nutzer öffentlich zugreifen können, um Daten einzugeben und zu versenden.
-
-Von ITSystemhaus DD zum Projekt Planer und Mitarbeiter im Außendienst:
-Schnittstelle: Mithilfe eines Datenbankservers können die Projekt Planer und Mitarbeiter im Außendienst die benötigten Daten, welche vom Nutzer eingegeben wurden anzeigen lassen.  
-
-Bei einem Telefongespräch fragt der Kunde nach, ob die Daten im zu erstellenden Software-System auch sicher sind. Der Kunde äußerst Sorgen, dass Hacker oder ein nicht loyaler Mitarbeiter wichtige Unternehmensdaten unbemerkt entwenden können. Sie beruhigen Ihn und stellen Ihm ein Sicherheitskonzept in Aussicht.
-
-Der Datenbankserver, auf dem die Kundendaten gespeichert sind befinden sich in einer entmilitarisierten Zone im privaten Netzwerk. Diese wird durch mindestens eine Firewall abgesichert.Die Mitarbeiter können zwar lesen und schreiben, die Daten können sie jedoch nicht bearbeiten. Bei der Anmeldung an dem Datenbankserver zur Eingabe von Daten wird das Nutzer-Account des Mitarbeiters zur Anmeldung benötigt. Dadurch können unbefugte Zugriffe erkannt und nachverfolgt werden. Die Mitarbeiter können keine Daten aus der Datenbank löschen. Die Daten werden bei einem Versuch der Löschung lediglich nicht mehr angezeigt, sind aber noch vorhanden. Die Daten werden mithilfe von regelmäßigen Backups zusätzlich abgesichert. </p>
-
