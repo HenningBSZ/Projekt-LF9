@@ -46,3 +46,9 @@ Entscheiden, wie die Nutzerverwaltung praktisch im System umgesetzt werden könn
 
 <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%206.pdf">Zum Dokument</a>
 
+<h2>Phase 7:</h2> 
+ Erstellung eines IT-Sicherheitskonzeptes<br><br>
+ 
+ <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%207.pdf">Zum Dokument</a>
+
+
