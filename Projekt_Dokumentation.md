@@ -48,6 +48,7 @@ Entscheiden, wie die Nutzerverwaltung praktisch im System umgesetzt werden könn
 
 <h2>Phase 7:</h2> 
  Erstellung eines IT-Sicherheitskonzeptes<br><br>
+ <P>Bei einer Fortbildung für Fachinformatiker kommen Sie beim Mittagessen mit einem Teilnehmer ins Gespräch. Dieser erzählt Ihnen, dass es seinem     Entwicklerteam unheimlich die Arbeit erleichtert, wenn die Anzahl der Datenquellen und Datenformate intern im Software-System gering gehalten wird.</p>
  
  <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%207.pdf">Zum Dokument</a>
 
