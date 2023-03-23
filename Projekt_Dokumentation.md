@@ -56,7 +56,7 @@ Entscheiden, wie die Nutzerverwaltung praktisch im System umgesetzt werden könn
 Datenquellen in einen zentralen Datenbestand überführen
 <p>Erstellen Sie ein Konzept, mit dem der Zugriff auf die die Datenquellen einheitlich über eine Benutzerschnittstelle (inkl. Berechtigung) ermöglicht werden kann.</p>
 
-<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%208.pdf>Zum Dokument</a>
+<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%208.pdf">Zum Dokument</a>
 
 
 
