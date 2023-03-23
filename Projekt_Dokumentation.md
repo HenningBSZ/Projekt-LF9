@@ -51,5 +51,11 @@ Entscheiden, wie die Nutzerverwaltung praktisch im System umgesetzt werden könn
  <P>Bei einer Fortbildung für Fachinformatiker kommen Sie beim Mittagessen mit einem Teilnehmer ins Gespräch. Dieser erzählt Ihnen, dass es seinem     Entwicklerteam unheimlich die Arbeit erleichtert, wenn die Anzahl der Datenquellen und Datenformate intern im Software-System gering gehalten wird.</p>
  
  <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%207.pdf">Zum Dokument</a>
+ 
+<h2>Phase 8:</h2>
+Datenquellen in einen zentralen Datenbestand überführen
+<p>Erstellen Sie ein Konzept, mit dem der Zugriff auf die die Datenquellen einheitlich über eine Benutzerschnittstelle (inkl. Berechtigung) ermöglicht werden kann.</p>
+
+
 
 
