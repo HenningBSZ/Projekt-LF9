@@ -62,6 +62,12 @@ Datenquellen in einen zentralen Datenbestand überführen
  <p>Zentralen Datenbestand mit Nutzerverwaltung umsetzen</p>
  
  <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/er-modell.drawio.png">Zum Dokument</a>
+ 
+ <h2>Phase 10:</h2>
+ <p>Vorgehensmodell zur Softwareentwicklung auswählen</p>
+ 
+ <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase10_auswahl_vorgehensmodell.pdf">Zum Dokument</a>
+ 
 
 
 
