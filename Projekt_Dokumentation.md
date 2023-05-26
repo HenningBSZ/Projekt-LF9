@@ -70,8 +70,8 @@ Datenquellen in einen zentralen Datenbestand überführen
  
   <h2>Phase 11:</h2>
  <p>Softwareentwicklung</p>
- 
- <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase10_auswahl_vorgehensmodell.pdf">Zum Dokument</a>
+ <p>Modul 5  Implementieren Sie die Erzeugung des Angebot-PDFs auf Basis der eingefügten Komponenten im Grundriss.</p>
+ <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/SoftwareDD%20GmbH_Angebotserstellung.pdf">Zum Dokument</a>
  
 
 
