@@ -38,7 +38,7 @@ Anschließend haben wir uns alle ein GitHub-Konto erstellt. Danach haben wir ein
 
 <h2>Phase 4:</h2>
 Erstellen Sie ein Wiki, welches alle bisher erstellten Dokumente und Informationen im Projekt beschreibt und als Verweise beinhaltet.<br><br>
-<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%204%20Doku.pdf">Zum Dokument</a>
+<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Phase%204%20DokuV2.pdf">Zum Dokument</a>
 
 
 
