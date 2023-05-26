@@ -106,6 +106,12 @@ Datenquellen in einen zentralen Datenbestand überführen
  <p>Modul 5  Implementieren Sie die Erzeugung des Angebot-PDFs auf Basis der eingefügten Komponenten im Grundriss.</p>
  <a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/SoftwareDD%20GmbH_Angebotserstellung.pdf">Zum Dokument</a>
  
+ 
+<h2>Phase 12:</h2>
+<p>Test</p>
+<p>Fertigen Sie zu jedem Modul aus Phase 11 einen Testplan an, mit dem Sie nach der Implementierung die Funktionalität mittels Black-Box-Tests nachweisen können. Die Anwendungsfälle aus Phase 1 sollenbeim Testablauf berücksichtigt werden (Use-Case-Test). Weiterhin sollen Sie Zustandstests (mit einem Zustandsdiagramm) und Negativtests verwenden.</p>
+<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Rahmen%20Informationen%20zum%20Test.pdf">Zum Dokument</a>
+ 
 
 
 
