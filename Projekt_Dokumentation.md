@@ -21,7 +21,7 @@ Einrichtung der gemeinsamen Dokumentenablage mit git (bzw. bei anderen Vorlieben
 Anschließend haben wir uns alle ein GitHub-Konto erstellt. Danach haben wir ein Repository eröffnet und alle Datein hochgeladen 
 </p>
 
-<a href="https://github.com/HenningBSZ/Projekt-LF9">Zum Repository</a>
+<a href="https://github.com/HenningBSZ/Projekt-LF9">Zum Dokument</a>
 <br>
 <br>
 
@@ -30,7 +30,7 @@ Anschließend haben wir uns alle ein GitHub-Konto erstellt. Danach haben wir ein
 
 <p>Wir haben ein Sequenz-Diagramm erstellt, welches den Ablauf einer Kundeabfrage dokumentiert und weitere Aufgaben unseres Serviceprozesses darstellt.</p>
 
-<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Sequenzdiagramm.drawio.png">Zum Sequenzdiagramm</a>
+<a href="https://github.com/HenningBSZ/Projekt-LF9/blob/main/Sequenzdiagramm.drawio.png">Zum Dokument</a>
 
 
 <h2>Phase 5:</h2>
